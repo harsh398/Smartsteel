@@ -11,7 +11,7 @@ You will also find a boilerplate for a backend application that consists of
 following files: main.py, templates/base.html, templates/index.html and 
 requirements.txt
 This application reads the provided task_data.csv and converts it into a
-JSON object when /data is requested.
+JSON object when /data is   requested.
 
 The backend application is implemented in python using:
  - Flask web app framework https://flask.palletsprojects.com/en/1.1.x/
